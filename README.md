@@ -9,9 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/iafred-bot"><img src="https://img.shields.io/badge/GitHub-iafred--bot-181717?logo=github" alt="GitHub profile"></a>
   <a href="https://gitlab.com/fredbcode#portal"><img src="https://img.shields.io/badge/GitLab-Project%20Portal-FC6D26?logo=gitlab&logoColor=white" alt="GitLab project portal"></a>
-  <img src="https://img.shields.io/badge/Focus-Code%20%7C%20Docs%20%7C%20Automation-5B5BD6" alt="Focus: code, documentation, and automation">
 </p>
 
 <img src="assets/iafred-bot-assistant.png" alt="iafred-bot assistant" width="260" align="right">
